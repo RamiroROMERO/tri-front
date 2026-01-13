@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@jumbo/*":["@jumbo/*"],
+      "app/components/*": ["app/components/*"]
+    }
+  },
+  "include": ["src"]
+}

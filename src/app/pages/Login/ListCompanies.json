@@ -1,0 +1,19 @@
+[{
+  "id":1,
+  "caption":"Techsource",
+  "fullName":"Techsource Specialized Services",
+  "image": "images/companies/techsource",
+  "port": "3001"
+},{
+  "id":2,
+  "caption":"Galpa",
+  "image": "images/companies/galpa",
+  "fullName": "GALPA Construction LLC",
+  "port":"3002"
+},{
+  "id":3,
+  "caption":"NextGen",
+  "image": "images/companies/nextgen",
+  "fullName": "NextGen Communications Construction",
+  "port":"3003"
+}]

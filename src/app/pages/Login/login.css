@@ -1,0 +1,20 @@
+.divBackground {
+  display: block;
+}
+
+.divLogin {
+  width: '30%';
+  min-width: '30%';
+  min-height: 100vh;
+}
+
+@media only screen and (max-width:720px) {
+  .divBackground {
+    display: none;
+  }
+
+  .divLogin {
+    width: '100%';
+    min-width: '100%';
+  }
+}

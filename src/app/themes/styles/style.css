@@ -1,0 +1,77 @@
+
+ul.MuiList-root > ul {
+  padding-left: 0px !important;
+}
+.sub-submenu-main> span {
+  padding-left: 23px !important;
+}
+.sub-submenu-main> div:first-of-type {
+  margin-left: 30px !important;
+}
+
+ul>ul>div>div>ul>ul>div>div>ul>li>a {
+  padding-left: 60px !important;
+}
+
+.MuiDataGrid-root {
+  border:  1px solid #F5F7FA !important;
+}
+
+.MuiDataGrid-toolbarContainer {
+  padding: 15px 5px 5px 5px !important;
+}
+
+.MuiDataGrid-withBorder{
+  border: 1px solid #F5F7FA !important;
+}
+
+.MuiDataGrid-columnHeader:last-child {
+  border: 1px solid #F5F7FA !important;
+} 
+
+.MuiDataGrid-cell--withRenderer{
+  border: 1px solid #F5F7FA !important;
+}
+
+.inputEnterHour {
+  width: 100% !important;
+  height: 35px;
+  outline: none !important;
+  border: none !important;
+  font-size: 14px;
+  font-family: 'Noirpro', 'Arial';
+}
+
+.inputEnterHour:focus {
+  border: 2px solid #023c63 !important;
+}
+
+.div-identifier-another-project {
+  color: #04aa6d !important;
+  cursor: pointer;
+}
+
+.div-identifier-hours-exceeded {
+  color: #aa0404 !important;
+  cursor: pointer;
+}
+
+.div-danger-color {
+  color:orangered !important;
+}
+
+.col-table-with-zero {
+  color: grey !important
+}
+
+div.pac-container {
+  z-index: 99999999999 !important;
+}
+
+/*rgb(77, 20, 20)
+
+.MuiDataGrid-row:hover {
+  background-color: #F5F7FA !important;
+}
+
+*/
